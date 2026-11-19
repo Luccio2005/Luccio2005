@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Luis Cruz 👋
 
-<!--
-**Luccio2005/Luccio2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering student (6th semester) at **UTP**, based in **Arequipa, Peru**.
+I'm focused on **backend development with Python**, **cloud**, and **cybersecurity**.
 
-Here are some ideas to get you started:
+## 🔧 What I'm learning now
+- Git & GitHub, SQL (PostgreSQL), Linux
+- Python + FastAPI
+- AWS fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **[FoodRescue](https://github.com/Luccio2005/FoodRescue)** – Online food store built with PHP, MySQL, JavaScript and CSS (product catalog, shopping cart and order management).
+- **[ProyectoWebClinica](https://github.com/Luccio2005/ProyectoWebClinica)** – Clinic web app: appointment booking, online health consultations and a virtual pharmacy to order prescription medicines.
+- **[threadbare](https://github.com/Game-Lab-6-0-UTP-Grupo-6-Equipo-5/threadbare)** – Team game developed at UTP Game Lab 6.0 (GDScript)
+
+## 🛠️ Tech I've worked with
+Java · JavaScript · PHP · SQL · HTML/CSS · Networking (Cisco)
+
+## 📫 Contact
+- LinkedIn: [Luis Cruz](https://www.linkedin.com/in/luis-ernesto-c-087b06374/)
+
+Open to **pre-professional internships** (remote or Arequipa).
